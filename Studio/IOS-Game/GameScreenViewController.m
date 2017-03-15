@@ -74,14 +74,14 @@ NSString *response;
     cardDefaultImage = [UIImage imageNamed:@"question.png"];
     
     //images to display on cards
-    UIImage *img1=[UIImage imageNamed:@"mared.png"];
-    UIImage *img2=[UIImage imageNamed:@"sali.jpg"];
-    UIImage *img3=[UIImage imageNamed:@"roz.jpg"];
-    UIImage *img4=[UIImage imageNamed:@"boo.jpg"];
-    UIImage *img5=[UIImage imageNamed:@"andl.jpg"];
-    UIImage *img6=[UIImage imageNamed:@"shalabi.jpg"];
-    UIImage *img7=[UIImage imageNamed:@"ankbot.jpg"];
-    UIImage *img8=[UIImage imageNamed:@"monster2.jpg"];
+    UIImage *img1=[UIImage imageNamed:@"pic1"];
+    UIImage *img2=[UIImage imageNamed:@"pic2"];
+    UIImage *img3=[UIImage imageNamed:@"pic3"];
+    UIImage *img4=[UIImage imageNamed:@"pic4"];
+    UIImage *img5=[UIImage imageNamed:@"pic5"];
+    UIImage *img6=[UIImage imageNamed:@"pic6"];
+    UIImage *img7=[UIImage imageNamed:@"pic7"];
+    UIImage *img8=[UIImage imageNamed:@"pic8"];
     imagesArray = [[NSArray alloc]initWithObjects:img1,img2,img3,img4,img5,img6,img7,img8,nil];
     
     //randomize images positions
