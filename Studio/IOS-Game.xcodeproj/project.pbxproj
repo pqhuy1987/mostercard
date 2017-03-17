@@ -911,7 +911,7 @@
 				GCC_PREFIX_HEADER = "IOS-Game/IOS-Game-Prefix.pch";
 				INFOPLIST_FILE = "IOS-Game/IOS-Game-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.studio.shootrabit.100;
+				PRODUCT_BUNDLE_IDENTIFIER = om.graphic.mahjong.100;
 				PRODUCT_NAME = "Monster Cards";
 				WRAPPER_EXTENSION = app;
 			};
@@ -927,7 +927,7 @@
 				GCC_PREFIX_HEADER = "IOS-Game/IOS-Game-Prefix.pch";
 				INFOPLIST_FILE = "IOS-Game/IOS-Game-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.studio.shootrabit.100;
+				PRODUCT_BUNDLE_IDENTIFIER = om.graphic.mahjong.100;
 				PRODUCT_NAME = "Monster Cards";
 				WRAPPER_EXTENSION = app;
 			};
